@@ -218,8 +218,4 @@ Each folder contains:
 ## 💪 Let's Do This!
 
 Push your daily progress, stay consistent, and crack your dream job 🚀
-## 📊 Progress Tracker
 
-| Day | Status | Notes |
-|-----|--------|-------|
-| Day 01 | ✅ Completed | Arrays & Strings Basics |
